@@ -1,0 +1,3 @@
+([('MXF-Analyzer',
+   '/Users/yangshangrui/Desktop/projects/mxf-analyzer/dist/MXF-Analyzer',
+   'EXECUTABLE')],)
